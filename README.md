@@ -3,7 +3,7 @@
 ### 📱 About App
 > Clone of the Zoomrad app
 > 
-> Technical: Kotlin, Compose, DI, Flow, Retrofit, OkHttp Cashing, Lottie animation, Orbit, Voyager, Multi-Module Architecture, DeepLink, GoogleMap
+> Technical: Kotlin, Compose, DI, Flow, Retrofit, OkHttp Cashing, Lottie animation, Orbit, Voyager, Multi-Module Architecture, DeepLink, GoogleMap, Paging3
 
 
 ### 📥 Download Apk
