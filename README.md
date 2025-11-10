@@ -1,4 +1,4 @@
-# Android_ZoomradClone_On_Compose
+# Android_ZoomradClone_On_Compose_Assets
 
 ### 📱 About App
 > Clone of the Zoomrad app
