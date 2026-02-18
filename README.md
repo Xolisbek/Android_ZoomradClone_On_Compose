@@ -7,7 +7,7 @@
 
 
 ### 📥 Download Apk
-> There is no apk file.
+> I can't upload the APK file for security reasons.
 <!-- APK Button
 [![Download APK](https://img.shields.io/badge/Download-APK-blue)](APK_LINK)
 -->
